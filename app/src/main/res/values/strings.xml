@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Limeade</string>
+    <string name="user">User name</string>
+    <string name="pwd">Password</string>
+    <string name="sign">Sign In</string>
+    <string name="register">Create account</string>
+    <string name="title">Limoncito</string>
+
+    <string name="name">First Name</string>
+    <string name="last">Last Name</string>
+    <string name="phone">CellPhone</string>
+
+    <string name="create">Create Account</string>
+    <string name="cancel">Cancel</string>
+
+
+</resources>
